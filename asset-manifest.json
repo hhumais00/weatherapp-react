@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weatherapp-react/static/css/main.fe2f4487.css",
+    "main.js": "/weatherapp-react/static/js/main.2340e767.js",
+    "static/js/787.c8bad3c1.chunk.js": "/weatherapp-react/static/js/787.c8bad3c1.chunk.js",
+    "index.html": "/weatherapp-react/index.html",
+    "main.fe2f4487.css.map": "/weatherapp-react/static/css/main.fe2f4487.css.map",
+    "main.2340e767.js.map": "/weatherapp-react/static/js/main.2340e767.js.map",
+    "787.c8bad3c1.chunk.js.map": "/weatherapp-react/static/js/787.c8bad3c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe2f4487.css",
+    "static/js/main.2340e767.js"
+  ]
+}
